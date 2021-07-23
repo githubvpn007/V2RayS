@@ -6,7 +6,7 @@ V2RayS、V2RayS使用教程、V2RayS配置说明、V2RayS配置
 ----
 
 **准备：**  
-1.已有服务端信息，如果您想获取科学上网服务器请点击[这里](https://github.com/githubvpn007/v2rayNvpn#%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB)
+1.已有服务端信息，如果您想获取科学上网服务器请点击[这里](https://github.com/githubvpn007/v2rayNvpn#%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB)  
 2.下载V2RayS，未下载的请到这个页面下载：[V2RayS客户端下载](https://github.com/Shinlor/V2RayS/releases)  
 
 V2rayS是基于v2ray核心实现的简洁客户端。然而其界面不支持传输层的高级配置，不建议新手使用。  
