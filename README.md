@@ -1,7 +1,14 @@
 # V2RayS
 V2RayS、V2RayS使用教程、V2RayS配置说明、V2RayS配置，vpn代理工具  
   
-  
+<br/>  
+
+### 本项目不做VPN分享，如果您希望获得最佳的科学上网方案 [点击这里](https://github.com/githubvpn007/v2rayNvpn)  
+
+### 如果你想知道clash/ss/ssr/v2ray/trojan 的区别的话 [请点这里](https://github.com/githubvpn007/proxy)
+
+<br/>
+
 简介
 ----
 
@@ -35,4 +42,4 @@ V2rayS是基于v2ray核心实现的简洁客户端。然而其界面不支持传
 
 <br/>
 
-## 如果您对科学上网一知半解 迷迷糊糊，迫切想弄懂各种科学上网的工具 各种协议的区别的话  请[点击这里](https://github.com/githubvpn007/v2rayNvpn)
+
