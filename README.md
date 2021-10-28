@@ -1,5 +1,5 @@
 # V2RayS
-V2RayS、V2RayS使用教程、V2RayS配置说明、V2RayS配置，vpn代理  
+V2RayS、V2RayS使用教程、V2RayS配置说明、V2RayS配置，vpn代理服务器  
   
 <br/>  
 
