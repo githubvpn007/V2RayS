@@ -26,11 +26,11 @@ V2rayS是基于v2ray核心实现的简洁客户端。然而其界面不支持传
 
 2.  进入解压后的文件夹（例x64），双击V2rayS.exe启动程序。程序启动后系统托盘内会出现图标（系统托盘就是桌面右下角，显示时间输入法那块）。如果程序没有反应，托盘下也没有出现图标，请先更新系统并安装[.NET Framework 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework) 和 [Microsoft Visual C++ 2015 Redistributable (x86)](https://www.microsoft.com/en-us/download/details.aspx?id=53840)。  
 
-![](https://github.com/githubvpn007/v2rayNvpn/blob/main/images/V2rayS/v2rays-1.png)  
+![](https://i.postimg.cc/wTQR2NHf/v2rays-1.png)  
 
 3. 在托盘里找到V2rayS的图标，右键，点击“设置”，出现配置界面：  
 
-![](https://github.com/githubvpn007/v2rayNvpn/blob/main/images/V2rayS/v2rays-2.png)  
+![](https://i.postimg.cc/Jz7D2hz1/v2rays-2.png)  
 
 4. 按照提示填写服务器地址、端口号、User ID(UUID)、AlterID。Secuirty一般用默认的auto就可以，填写好后点击“保存”和“应用到V2ray”，点右上角关闭窗口； （注：有些小白可能不知道哪里获得这些信息，这些信息是在您购买了**付费代理**后代理商会给到您的信息，如果您不知道在哪里购买的话 请看[这里](https://github.com/githubvpn007/v2rayNvpn#%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB)）
 
